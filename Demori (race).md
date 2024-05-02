@@ -1,0 +1,2 @@
+#race/demori
+[[Races]]
