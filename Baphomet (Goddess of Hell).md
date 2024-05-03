@@ -1,3 +1,3 @@
-#faction/WORS 
-#race/baphomet 
+#Faction/WORS 
+#Race/baphomet 
 [[Characters]]

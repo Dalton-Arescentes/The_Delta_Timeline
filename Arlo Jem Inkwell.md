@@ -1,3 +1,3 @@
-#race/ink/greater/Larvatum/1st_gen 
-#location/reality/Maelstorm/Pandora
+#Race/Ink/Greater/Larvatum/1st_gen 
+#Location/Reality/Maelstorm/Pandora
 [[Characters]]

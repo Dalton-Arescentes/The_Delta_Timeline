@@ -1,5 +1,5 @@
 [[Darkland]]
-#items
+#Items
 *it's a metal bound book with pages of interwoven metal strand and characters acid burned and stained, in other words its a metal book
 
 *it has no label but it's first page speaks of a mechanical hell baron made of red Ulfire, other world steel, and half royal imp blood

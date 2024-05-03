@@ -44,5 +44,11 @@ they lure the hoard of freakers over the edge of the bridge with the sound of a 
 
 Noel & Peter continue forward without the 3rd one
 
+###### 2024-05-02
 
+Peter and Noel have gotten into the city and are disusing what they need, peter says seeds mainly but books and for them to record what is in the city so they can make more trips later.
+
+It is the [[Bounty Hunter]] from their initial encounter asking them to infiltrate a camp under suspicion of them feeding the freakers.
+
+the *Seemingly* two from the order of change accept the task
 

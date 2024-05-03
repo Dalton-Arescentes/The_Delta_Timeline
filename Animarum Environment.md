@@ -1,3 +1,3 @@
-#location/reality 
-#system/Animarum 
+#Location/Reality 
+#System/Animarum 
 [[Locations]]

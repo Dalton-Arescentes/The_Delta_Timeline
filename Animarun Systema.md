@@ -1,4 +1,4 @@
-#system/Animarum 
+#System/Animarum 
 [[The pillars of Fiction]]
 
-Inspired by #system/Dungeons_and_Dragons/5e & #those-above-all/dalton's experience with #system/Dungeons_and_Dragons/3e5 to make a scale-able system while using the foundations of #system/KnaveV1 & #system/Open_Legend 
+Inspired by #System/Dungeons_and_Dragons/5e & #Those-above-all/Dalton's experience with #System/Dungeons_and_Dragons/3e5 to make a scale-able system while using the foundations of #System/KnaveV1 & #System/Open_Legend 

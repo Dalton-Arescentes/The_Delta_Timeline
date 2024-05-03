@@ -1,2 +1,2 @@
-#race/ink/greater/larvatum/3rd_gen 
+#Race/Ink/Greater/Larvatum/3rd_gen 
 [[Characters]]

@@ -1,7 +1,8 @@
-[[Amostus Souls]]
+[[Races]]
 
-#race/Amostus/human 
-#soul/Amostus 
+#Race/Amostus/Human 
+#Souls/Amostus 
+#Faction/Adam_Manufacturing 
 
 # `Base Amostus` : state
 The default state all Amostus human know, following the standard Morphology of ring zero humans with the ability to take in and process a much larger and diverse set of nutrition sources, leading to slight alterations in bone density, muscle functions,. neurochemical mappings, a majority of the Endocrine System causing a extremely different set of behaviors then human, and creates the legendary amostus response creating a impulse to react to any challenge violently, such impulses can be controlled but echo through the history and the lifespan of the race regardless.

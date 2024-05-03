@@ -1,3 +1,3 @@
 #The_Delta_Timeline
-#soul/Amostus 
+#Souls/Amostus 
 [[Souls]]

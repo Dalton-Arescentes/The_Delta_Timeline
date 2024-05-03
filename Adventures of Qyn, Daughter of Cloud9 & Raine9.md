@@ -13,3 +13,7 @@ meanwhile cloud9 & raine9 have immediately left their home at the brotherhood of
 they meet up in one group at the building after raine and cloud walked for a while.
 
 
+###### 2024-05-02
+Cloud saves randy from a freaker hoard using a summoned wisp serpent.
+Cloud is working on a form of transport via summoned wisp serpents.
+Cloud sees the adrenaline shots that Randy has been using.

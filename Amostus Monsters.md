@@ -1,3 +1,3 @@
 [[Amostus Souls]]
-#soul/Amostus/Monster
-#race/Amostus/Monster 
+#Souls/Amostus/Monster
+#Race/Amostus/Monster 

@@ -1,2 +1,2 @@
 [[Amostus Souls]]
-#soul/Amostus/Gecynde_Green
+#Souls/Amostus/Gecynde_Green

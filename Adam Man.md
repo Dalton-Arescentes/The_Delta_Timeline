@@ -1,4 +1,4 @@
-#race/human/Ring0
+#Race/Human/Ring0
 #The_Adam_Man
-#faction/Adam_Manufacturing
+#Faction/Adam_Manufacturing
 [[Characters]]

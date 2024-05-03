@@ -1,3 +1,3 @@
-#soul/Amostus/Atiotermin_red/Veterus/amalgamation
-#location/reality/Maelstorm/Pandora 
+#Souls/Amostus/Atiotermin_red/Veterus/amalgamation
+#Location/Reality/Maelstorm/Pandora 
 [[Characters]]

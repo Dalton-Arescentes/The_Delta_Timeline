@@ -1,3 +1,3 @@
-#race/ink/greater/larvatum/0th_gen 
-#faction/RLD 
+#Race/Ink/Greater/Larvatum/0th_gen 
+#Faction/RLD 
 [[Characters]]

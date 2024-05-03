@@ -1,2 +1,2 @@
 [[Amostus Souls]]
-#soul/Amostus 
+#Souls/Amostus 

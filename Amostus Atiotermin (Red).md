@@ -1,2 +1,2 @@
 [[Amostus Souls]]
-#soul/Amostus/Atiotermin_red 
+#Souls/Amostus/Atiotermin_red 

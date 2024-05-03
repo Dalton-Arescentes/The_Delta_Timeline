@@ -1,2 +1,2 @@
-#faction/WORS/The_Seven_Deadly_Sins/Envy 
+#Faction/WORS/The_Seven_Deadly_Sins/Envy 
 [[Characters]]

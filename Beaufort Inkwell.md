@@ -1,3 +1,3 @@
 [[Arlo Kallum Inkwell]]
 
-#faction/Adam_Manufacturing 
+#Faction/Adam_Manufacturing 

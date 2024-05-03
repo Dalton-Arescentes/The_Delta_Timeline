@@ -1,3 +1,3 @@
 [[Adam Man]]
-#race/android 
-#conditions/Undead
+#Race/Android 
+#Conditions/Undead

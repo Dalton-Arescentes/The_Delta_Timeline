@@ -1,2 +1,2 @@
 [[Characters]]
-#faction/WORS/Tribe_of_Aman
+#Faction/WORS/Tribe_of_Aman

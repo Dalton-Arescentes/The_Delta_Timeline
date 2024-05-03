@@ -1,2 +1,2 @@
 [[Arlo Kallum Inkwell]]
-#race/ink/greater/larvatum 
+#Race/Ink/Greater/Larvatum 

@@ -1,5 +1,5 @@
-#race/ink/greater/larvatum/0th_gen 
-#race/ink/greater/royal/inkwell 
+#Race/Ink/Greater/Larvatum/0th_gen 
+#Race/Ink/Greater/Royal/Inkwell 
 #The_Larvartum 
 
 
