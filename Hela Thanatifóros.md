@@ -1,2 +1,2 @@
-#race/Architects
+#Race/Architects
 [[Characters]]

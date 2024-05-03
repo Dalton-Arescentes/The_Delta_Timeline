@@ -1,5 +1,5 @@
-#race/Architects
-#those-above-all/dan
+#Race/Architects
+#Those-above-all/Dan
 [[Characters]]
 
 ###### 2024-05-02

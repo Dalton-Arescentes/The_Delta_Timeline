@@ -1,3 +1,3 @@
 [[Characters]]
-#race/ink/greater/Demori_Cherubum
-#faction/RLD/Grand_Ivory_Casino 
+#Race/Ink/Greater/Demori_Cherubum
+#Faction/RLD/Grand_Ivory_Casino 

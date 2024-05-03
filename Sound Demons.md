@@ -1,3 +1,3 @@
 [[Races]]
-#race/Sound_Demon
-#location/reality/Maelstorm 
+#Race/Sound_Demon
+#Location/Reality/Maelstorm 

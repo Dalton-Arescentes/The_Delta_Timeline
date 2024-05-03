@@ -1,2 +1,2 @@
-#faction/WORS/Tribe_of_Acro
+#Faction/WORS/Tribe_of_Acro
 [[Characters]]

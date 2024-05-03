@@ -1,3 +1,3 @@
 [[Races]]
-#race/Sigorins
-#location/reality/Maelstorm 
+#Race/Sigorins
+#Location/Reality/Maelstorm 

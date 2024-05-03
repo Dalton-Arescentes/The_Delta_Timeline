@@ -1,2 +1,2 @@
 [[Annandale Kämpfer]]
-#race/ink/greater/royal/kämpher 
+#Race/Ink/Greater/Royal/Kämpher 

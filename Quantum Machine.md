@@ -1,2 +1,2 @@
 [[Locations]]
-#faction/Adam_Manufacturing 
+#Faction/Adam_Manufacturing 

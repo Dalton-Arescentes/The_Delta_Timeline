@@ -1,4 +1,4 @@
 
-#location/Veterus
-#soul/Amostus/Atiotermin_red/Veterus 
+#Location/Veterus
+#Souls/Amostus/Atiotermin_red/Veterus 
 [[Locations]]

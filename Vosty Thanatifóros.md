@@ -1,2 +1,2 @@
 [[Luminite Thanatifóros]]
-#race/Chaos_soul 
+#Race/Chaos_Soul 

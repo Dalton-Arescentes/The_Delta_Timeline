@@ -1,9 +1,9 @@
-#race/Amostus/human/Veterus 
-#race/ink/Xiphos
-#soul/Amostus/Atiotermin_red
-#soul/Amostus/Hatian_Darkened
-#soul/Amostus/Baros_Orange/Oracle   
-#location/reality/Maelstorm/alternate_timeline/kuchennelken
+#Race/Amostus/Human/Veterus 
+#Race/Ink/Xiphos
+#Souls/Amostus/Atiotermin_red
+#Souls/Amostus/Hatian_Darkened
+#Souls/Amostus/Baros_Orange/Oracle   
+#Location/Reality/Maelstorm/Alternate_timeline/Kuchennelken
 [[Characters]]
 
 

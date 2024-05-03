@@ -1,2 +1,2 @@
 [[Locations]]
-#location/reality/RLD
+#Location/Reality/RLD

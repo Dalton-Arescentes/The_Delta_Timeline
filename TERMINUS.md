@@ -1,3 +1,3 @@
 [[Arlo Kallum Inkwell]]
-#race/ink/greater/larvatum/1stgen 
-#soul/Amostus/Hatian_Darkened 
+#Race/Ink/Greater/Larvatum/1stgen 
+#Souls/Amostus/Hatian_Darkened 

@@ -1,6 +1,6 @@
 [[Races]]
-#race/human/Pandorian
-Humans from #location/reality/Maelstorm 
+#Race/Human/Pandorian
+Humans from #Location/Reality/Maelstorm 
 
 
 adrenaline reactivates hybrid DNA

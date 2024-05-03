@@ -1,4 +1,4 @@
-#location/reality/Animarum/Mountain_Home 
+#Location/Reality/Animarum/Mountain_Home 
 
 *There used to be a city here in this mountain carved out by the races of a country together as a celebration of the end of war, it would have been the biggest city in systema and the pride and joy of meny gods, architected by kindness of a mother and built by the back of a father to protect the hope of his daughter....
 

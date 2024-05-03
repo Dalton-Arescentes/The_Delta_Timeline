@@ -1,3 +1,3 @@
 [[Races]]
-#race/Notris_Heart
-#location/reality/Maelstorm 
+#Race/Notris_Heart
+#Location/Reality/Maelstorm 

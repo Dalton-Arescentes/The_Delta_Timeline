@@ -1,4 +1,4 @@
 [[Locations]]
-#system 
-#faction/Adam_Manufacturing 
-#location/Quantum_Machine
+#System 
+#Faction/Adam_Manufacturing 
+#Location/Quantum_Machine

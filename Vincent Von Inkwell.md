@@ -1,2 +1,2 @@
 [[Characters]]
-#race/ink/greater/royal/inkwell 
+#Race/Ink/Greater/Royal/Inkwell 

@@ -1,2 +1,2 @@
 [[Locations]]
-#location/Quantum_Machine
+#Location/Quantum_Machine

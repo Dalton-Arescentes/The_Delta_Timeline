@@ -1,5 +1,5 @@
-#race/Chaos_soul
-#conditions/Progenitor 
+#Race/Chaos_Soul
+#Conditions/Progenitor 
 
 
 Father : [[Mr.It (Afarnis Thanatifóros)]]

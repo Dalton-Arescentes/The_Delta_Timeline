@@ -1,2 +1,2 @@
 [[Locations]]
-#location/reality/Maelstorm 
+#Location/Reality/Maelstorm 

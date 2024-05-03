@@ -1,2 +1,2 @@
 [[Characters]]
-#faction/WORS/The_Seven_Deadly_Sins/Greed
+#Faction/WORS/The_Seven_Deadly_Sins/Greed

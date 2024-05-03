@@ -1,6 +1,6 @@
-#system/Animarum/character
-#race/human
-#location/reality/Animarum/Mountain_Home
+#System/Animarum/character
+#Race/Human
+#Location/Reality/Animarum/Mountain_Home
 
 [[Characters]] [[Mountain Home]]
 

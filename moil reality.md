@@ -1,3 +1,3 @@
-#location/reality 
+#Location/Reality 
 [[Locations]]
 

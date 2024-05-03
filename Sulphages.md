@@ -1,3 +1,3 @@
 [[Races]]
-#race/Sulphages
-#location/reality/Maelstorm 
+#Race/Sulphages
+#Location/Reality/Maelstorm 

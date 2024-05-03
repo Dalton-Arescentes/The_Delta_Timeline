@@ -1,2 +1,2 @@
-#race/ink
+#Race/Ink
 [[Races]]

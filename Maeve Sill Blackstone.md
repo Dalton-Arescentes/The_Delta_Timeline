@@ -1,2 +1,2 @@
 [[Samuel Sill Blackstone]]
-#race/ink/greater/royal/blackstone 
+#Race/Ink/Greater/Royal/Blackstone 

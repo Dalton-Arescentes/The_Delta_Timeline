@@ -120,3 +120,11 @@ if there're any telepaths it's literally the only thing they think about continu
 that one will do their best to listen to their legends and even write them down if paper is ready*
 
 
+
+
+
+
+###### 2024-05-02
+
+they are summoned via note attached to arrow to come to [[The Radio Tower]]
+

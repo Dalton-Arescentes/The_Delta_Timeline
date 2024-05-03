@@ -1,2 +1,3 @@
-[[Amostus Tegritasin (Blue)]]
-#faction/Book_Of_Labes 
+[[Book of Labes]]
+#Souls/Amostus/Tegritasin/Hastings
+#Faction/Book_Of_Labes/The_Hastings_Group 

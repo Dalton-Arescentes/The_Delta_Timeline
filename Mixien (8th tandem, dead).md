@@ -1,8 +1,8 @@
 [[Slenesh (dead)]]
 
 #Tandem
-#race/Amostus/human 
-#faction/RLD 
-#conditions/Progenitor
+#Race/Amostus/Human 
+#Faction/RLD 
+#Conditions/Progenitor
 
 original amostus human tandem

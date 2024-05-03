@@ -1,2 +1,2 @@
-#race/human 
+#Race/Human 
 [[Races]]

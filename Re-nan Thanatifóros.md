@@ -1,2 +1,2 @@
 [[Luminite Thanatifóros]]
-#race/ink/Xiphos 
+#Race/Ink/Xiphos 

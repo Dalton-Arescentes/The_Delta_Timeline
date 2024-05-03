@@ -1,2 +1,2 @@
-#race/yuan-ti/royal/Vickávell 
+#Race/yuan-ti/royal/Vickávell 
 [[Characters]]
