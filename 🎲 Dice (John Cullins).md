@@ -1,7 +1,7 @@
 
-#race/ink/greater/Demori_Cherubum
-#system/Animarum/character
-#faction/RLD/Grand_Ivory_Casino 
+#Race/Ink/Greater/Demori_Cherubum
+#System/Animarum/character
+#Faction/RLD/Grand_Ivory_Casino 
 [[Joseph Cullins]]
 
 | Nickname      | 🎲Dice                                                                                                                                                   |
