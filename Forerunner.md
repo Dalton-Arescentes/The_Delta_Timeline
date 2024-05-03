@@ -1,3 +1,3 @@
 [[Races]]
-#race/Forerunner 
-#location/reality/Maelstorm 
+#Race/Forerunner 
+#Location/Reality/Maelstorm 

@@ -1,7 +1,10 @@
 
 #Race/Ink/Greater/Demori_Cherubum
 #System/Animarum/character
-#Faction/RLD/Grand_Ivory_Casino 
+#Faction/RLD/Grand_Ivory_Casino
+#System/Dungeons_and_Dragons/5e/class/Card_Slinger 
+[[Card Slinger (5e Class)]]
+
 [[Joseph Cullins]]
 
 | Nickname      | 🎲Dice                                                                                                                                                   |
@@ -137,5 +140,3 @@ Gold trimmed casino cards with characters from RLD as the face cards
 - Class Effect :half Scale dice + lv  + best social = 
 - Class : [Deckmaster](https://www.dandwiki.com/wiki/Card_Slinger_(5e_Class))
  == 🛡️𝕬𝖓𝖎𝖒𝖆𝖗𝖚𝖒 𝕾𝖞𝖘𝖙𝖊𝖒𝖆🗡️ ==
-
-![[cardslinger.pdf]]

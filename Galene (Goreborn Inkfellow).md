@@ -1,4 +1,4 @@
-#faction/Maelstorm/Calamity_Corporation 
-#race/ink/gore/Gore_Born
+#Faction/Maelstorm/Calamity_Corporation 
+#Race/Ink/Gore/Born
 [[Characters]]
 

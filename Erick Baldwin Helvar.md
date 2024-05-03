@@ -1,2 +1,2 @@
 [[Characters]]
-#system/Dungeons_and_Dragons/5e/character  
+#System/Dungeons_and_Dragons/5e/character  

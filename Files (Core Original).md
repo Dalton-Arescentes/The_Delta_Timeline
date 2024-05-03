@@ -1,2 +1,2 @@
-
-[[WIther's Open Roleplay System (W.O.R.S.)]]
+[[W.O.R.S. (The Character)]]
+#Faction/WORS/UNIX_Utilities/Files 
