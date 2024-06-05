@@ -1,2 +1,2 @@
 #Race/Noxi/Proto
-[[Races]]
+[[Conceptual Noxi]]

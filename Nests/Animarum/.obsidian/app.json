@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "tabSize": 4,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "hidden",
+  "userIgnoreFilters": [
+    "plugins/",
+    "themes/"
+  ]
+}

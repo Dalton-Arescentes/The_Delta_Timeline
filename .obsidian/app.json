@@ -1,0 +1,16 @@
+{
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Nests/Animarum/Resources/",
+    "Nests/Animarum/plugins/",
+    "Nests/Animarum/themes/",
+    "Nests/Animarum/Excalidraw/"
+  ],
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "attachmentFolderPath": "./"
+}

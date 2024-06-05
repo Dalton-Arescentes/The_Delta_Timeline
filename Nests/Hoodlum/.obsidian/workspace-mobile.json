@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0d295c1613af012d",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b660bc2c4ce46fa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76d4342bc592c837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jamal Harris.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cafae377225adf32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Oracle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "47242be3d2c726db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Hoodlum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1de557c4c8d18452",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hoodlum Session Log.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bc13138388166f3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2540f2b36f1ba5a0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "22c12fba95c186a9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4019d0ed52e34025",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d3d596b9547a6b07",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "74f48fdf43e8743c",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "25a1b7c5aab26f4b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "88b994d3affe03d2",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Hoodlum Session Log.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cdf64e0c48763d28",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Hoodlum Session Log.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a6699bb31ee924cb",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Hoodlum Session Log.md"
+          }
+        }
+      },
+      {
+        "id": "cb73fc43dcb35f20",
+        "type": "leaf",
+        "state": {
+          "type": "file-properties",
+          "state": {
+            "file": "Hoodlum Session Log.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 2
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "1de557c4c8d18452",
+  "lastOpenFiles": [
+    "The Oracle.md",
+    "Hoodlum Session Log.md",
+    "The Hoodlum.md",
+    "Jamal Harris.md",
+    "Knave_1.0_EN.pdf",
+    "templates/date.md",
+    "Untitled.md",
+    "templates/date",
+    "templates"
+  ]
+}

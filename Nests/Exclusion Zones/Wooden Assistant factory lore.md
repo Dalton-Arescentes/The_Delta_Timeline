@@ -1,0 +1,3 @@
+The factory was constructed by the father of [[Alexander Vestanu Hostinefild]] who saw nothing but profit in the androids and wished to mass produce them to replace labor in their small and rapidly growing city.
+
+Fild had attempted to create a android to help him him since his health started to decline and thought to give the android as much knowledge as possible to make it more useful and into a companion, the first one he made he called [[Hexadecimal (android)]] & quickly found it was way more friendly then he had made it to be

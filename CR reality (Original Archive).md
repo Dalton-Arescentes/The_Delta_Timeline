@@ -1,2 +1,0 @@
-[[Characters]]
-Made by Architects

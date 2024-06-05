@@ -1,2 +1,2 @@
-[[Races]]
+[[Ink Fellows]]
 #Race/Ink/Greater/Larvatum 

@@ -1,1 +1,0 @@
-[[Gore Ink Fellows]]

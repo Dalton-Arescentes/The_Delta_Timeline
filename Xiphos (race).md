@@ -1,2 +1,0 @@
-#race/ink/Xiphos
-[[Races]]

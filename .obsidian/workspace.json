@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "ebd64ccfc0157389",
+    "type": "split",
+    "children": [
+      {
+        "id": "78c8668efdbf4eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58803df1fd9c919f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "77063ad1663304ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac36b3fee214ca78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe2bfdc25c8ef7ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "054c7f5e2e5485f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:System/Dungeons_and_Dragons/5e/Background/Haunted",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b4fbfa96b2af8cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c9a5ec4df5878277",
+    "type": "split",
+    "children": [
+      {
+        "id": "b011a1a9571e65bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "608cf7b1d67e5229",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e10fa91a6084ef69",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dbd7a4be8da3ceda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "65f8c361d8396fc7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "58803df1fd9c919f",
+  "lastOpenFiles": [
+    "Xin Maro (WC).md",
+    "Nests/Characters/Mars Mars.md",
+    "Nests/Animarum/Knave.md.md",
+    "RA Session 12 Currently Unnamed.md",
+    "The Specter PVP Crossover event (SPVP).md",
+    "Nests/Red Light Games/The Oracle.md",
+    "The Delta Timeline.md",
+    "Tribebler.md",
+    "Maelstorm (Third Current).md",
+    "The Big Book of No Nos.md",
+    "Amostus Soul Tech.md",
+    "The Brotherhood of Gold.md",
+    "Brotherhood of Gold Tech.md",
+    "Pasted image 20240530185254.png",
+    "Data Pulsar Modules.md",
+    "Nests/Characters/Zara.md",
+    "Nests/Characters/Zaraha.md",
+    "Nests/Exclusion Zones/Adventures of Qyn, Daughter of Cloud9 & Raine9.md",
+    "Nests/Animarum/Character Sheets.md",
+    "Nests/Animarum/Resources/Animarum Character sheetPG3.png",
+    "Nests/Animarum/Animarum Handbook.md",
+    "Nests/Animarum/Resources/Animarum Character sheetPG2DFG.png",
+    "Nests/Animarum/Resources/Animarum Character sheetPG2.png",
+    "Nests/Animarum/Resources/Core Cover.png",
+    "Nests/Animarum/Resources/Knave.jpg",
+    "Nests/Animarum/Resources/untitled3.png",
+    "Nests/Animarum/Resources/untitled.png",
+    "Nests/Animarum/Resources/Animarum Character sheetPG1.png",
+    "Nests/Animarum/Resources/3.png",
+    "Nests/Animarum/Animarum.md",
+    "Nests/Animarum/Resources/lu692526oe6.tmp",
+    "Nests/Animarum/Resources/Animarum Character sheet.pdf",
+    "Nests/Animarum/Resources/lu692526oe4.tmp",
+    "Nests/Animarum/Resources/lu692526oe0.tmp",
+    "Nests/Animarum/Resources/Animarum Handbook.odt",
+    "Nests/Animarum/Resources/lu692526odx.tmp",
+    "Nests/Characters/Characters.md",
+    "Nests/Exclusion Zones/MR EX 12 Stolen Lunari.md",
+    "Nests/Red Light Games/Ruby's Log.md",
+    "Nests/Red Light Games/Dawn & Dusk log.md",
+    "Nests/Red Light Games/Ruby (Wisp born).md",
+    "Nests/Red Light Games/Dawn & Dusk.md",
+    "Resources/DD-character-sheet-5e-fillable.pdf",
+    "Resources/Xin Mars",
+    "Nests/Exclusion Zones.zip",
+    "Nests/Exclusion Zones/resources",
+    "Nests/Animarum/Book Prototype.canvas"
+  ]
+}

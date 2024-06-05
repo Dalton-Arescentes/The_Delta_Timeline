@@ -1,0 +1,11 @@
+{
+  "accentColor": "#753900",
+  "theme": "obsidian",
+  "baseFontSize": 13,
+  "cssTheme": "Encore",
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "Terminus",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "Copperplate"
+}

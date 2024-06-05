@@ -1,0 +1,242 @@
+{
+  "main": {
+    "id": "ee23e4d800fc3be0",
+    "type": "split",
+    "children": [
+      {
+        "id": "1964e606e6df28d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72a164f181c191d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animarum Handbook.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "64430ba6315a9902",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Animarum Handbook.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43b2057e572b578a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character Sheets.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b74ea5e017fdac68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Knave.md.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "333bc7ee79d5b57e",
+    "type": "split",
+    "children": [
+      {
+        "id": "d476b0824aa75a5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5fafb1c3c8c54148",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a7696ec7d46cca9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"excalidraw-export-transparent\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "11636346d337ab55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e0e3bf242eaf8ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d836fb9bd2fb1e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68b13ee05d235cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Animarum Handbook.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f16481dc584ae070",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Animarum Handbook.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0fe12c0e56acfb3c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "270007272e2f76f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Animarum Handbook.md"
+              }
+            }
+          },
+          {
+            "id": "e63f1af9d22c892f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "64430ba6315a9902",
+  "lastOpenFiles": [
+    "Animarum Handbook.md",
+    "Knave.md.md",
+    "Character Sheets.md",
+    "Resources/untitled3.png",
+    "Animarum.md",
+    "Animarum Systema HEX.pdf",
+    "Animarum Systema Core.pdf",
+    "Scaling Sheet.md",
+    "Resources/Knave.pdf",
+    "Untitled.md",
+    "Book Prototype.canvas",
+    "Resources/Animarum Handbook",
+    "Old backup.md",
+    "Character Creation.md",
+    "Explaining the Character Sheet.md",
+    "Content.md",
+    "Preface.md",
+    "Introduction & Body.md",
+    "Displaced Rules.md",
+    "Resources/untitled.png",
+    "The Book of Labes.md",
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-05-17 20.59.52.excalidraw.md",
+    "Excalidraw/Drawing 2024-05-17 20.59.51.excalidraw.md",
+    "Excalidraw",
+    "Resources/Knave.jpg",
+    "Untitled 1",
+    "Untitled",
+    "Resources/HEX cover.png",
+    "Resources/Core Cover.png",
+    "lu195441hty1.tmp",
+    "HEX Pile",
+    "Animarum_Systema_Core.txt"
+  ]
+}

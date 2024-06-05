@@ -1,3 +1,0 @@
-#Slenesh
-#Faction/RLD 
-[[Characters]]

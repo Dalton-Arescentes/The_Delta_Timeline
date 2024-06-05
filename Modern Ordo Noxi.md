@@ -1,7 +1,7 @@
 #Race/Noxi/Ordo/Modern
 Also called flesh noxi by the older and other varients of noxi
 
-[[Races]]
+[[Ordo Noxi (Wights)]]
 
 
 

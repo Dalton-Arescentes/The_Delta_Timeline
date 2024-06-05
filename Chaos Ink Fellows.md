@@ -1,7 +1,7 @@
 #Race/Ink
 #Conditions/Chaos_Reinforced 
 #Location/Reality/Maelstorm 
-[[Races]]
+[[Ink Fellows]]
 
 - Artificial race made from Ink Fellows, Chaos Energy & Chaos Tech reinforcing them.
 - Defined Genders & Forms without inhibiting existing ink fellow techniques.

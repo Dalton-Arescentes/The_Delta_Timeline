@@ -1,0 +1,320 @@
+        Preface
+
+
+This system is made with the intention of adding some mechanics to role playing not to role play within mechanics, to have as few hard limits as possible.
+
+I (@dalton_arescentes) had gotten tired of D&D 3.5 & D&D 5e and didn't much care for pathfinder, gurps, or Open Legend as I found learning and committing to a new system to be too time consuming as I lost free time to other things, so I tried 
+[Knave (link to knave)]
+ and loved it, and so i built off it from there even using the stats from 
+[Open Legends (link to open legends)] 
+for a full stat block.
+
+I retain strict control over the core, community suggestions are welcome but look into HEX before making any
+
+
+        Introduction
+
+
+Animarum is a System for lightweight Roleplaying games, with a focus of being easy to pick up and run.
+
+This book will go though and show you how to play, it is worth noting that the items are left as generic so you can change them to whatever fits.
+
+
+        How to play
+
+
+You will need at least a dice, pen and paper, but the current medium is google documents or messages and digital dice.
+
+
+        Character Creation
+
+
+1. Minimal or Full
+Pick between Minimal or Full
+minimal character sheet only uses a Gen mod of 1 (^generic modifier) and allows you to finish the character much faster, but a full character sheet will come with a full 18 stats.
+
+2. Stats 
+While a gen mod may cover everything stats for more finite play can be used.
+
+there are three categories 
+    Physical
+Might
+Agility
+Fortitude
+
+    Mental
+Learning
+Logic
+Perception
+Willpower
+
+    Exceptional
+Alteration
+Changing one thing to another though some uncommon method, like magic or ray-gun
+
+Creation
+Use a Higher powers, manifest something from nothing, regenerate, empower
+
+Energy
+Create and control elements
+
+Entropy
+Disintegrate matter, create sickness, kill with a word
+
+Influence
+Control the minds of others, speak telepathically, manipulate emotions, and use illusions
+
+Movement
+Teleport, fly, hasten, use telekinesis
+
+Prescience
+See the future, read motives, perceive far locations, sense magic or evil, contact other realms
+
+Protection
+save from harm, break influences, magics
+
+
+You roll these stats in order of listing with 2d4 and keep the highest, once you have done that you can chose 4 stats and swap their values as you please.
+
+each of these stats have a defense score of itself plus ten, for example if your fortitude was 3 you'd add 10 to get a defense of 13.
+
+The following text can be copy and pasted into a discord with inline rolling enabled on the Avrae bot, Due to how time consuming it is to roll 18 sets of 2d4 is, I’d suggest using digital dice.
+[[2d8kh1 Might]][[2d8kh1 Agility]][[2d8kh1 Fortitude]]
+[[2d8kh1 Learning]][[2d8kh1 Logic]][[2d8kh1 Perception]][[2d8kh1 Willpower]]
+[[2d8kh1 Deception]][[2d8kh1 Persuasion]][[2d8kh1 Presence]]
+[[2d8kh1 Alteration]][[2d8kh1 Creation]][[2d8kh1 Energy]][[2d8kh1 Entropy]][[2d8kh1 Influence]][[2d8kh1
+Movement]][[2d8kh1 Prescience]][[2d8kh1 Protection]]
+
+
+3. Details and all the fun
+You should understand what a name is, if not, hello and welcome to earth.
+roll a d8 for your health and add your fortitude stat to it, your armor is 10 + your fortitude, agility or what your armor provides.
+(some worlds use 100HP for everyone to encourage strategy)
+
+your speeds will usually be 120ft exploring, 40ft in combat, with 2 footprints with a 5ft zone written as
+
+Speeds & Footprint : 120ft & 40ft, 2, 5ft
+
+but can be altered when appropriate, like a additional footprint when a character has a tail they can stand on, or a smaller zone if their small.
+
+Your Level usually starts at 1 or even 0 for the daring
+Your Scale is 9-C (d20) unless you and your host can understand the scaling system put into the end of this document, your scale dice is a d20
+
+Now you can fill out the details section, your gender, race and such, however your Background is the most important one and often is one or two words of well understood context like "City police" or "Church Scribe", if you need more context feel free to link to a resource that has it or attach another paper containing it.
+
+Here are some tables to randomize your details if you wish to use it
+
+Physique
+1. Athletic 2. Brawny 3. Corpulent
+4. Delicate 5. Gaunt  6. Hulking
+7. Lanky    8. Ripped 9. Rugged
+10.Scrawny  11.Short  12.Sinewy
+13.Slender  14.Flabby 15.Sculpted
+16.Stout    17.Tiny  18.Towering
+19.Willowy  20.Wiry
+
+Face
+1. Bloated   2. Blunt    3. Bony
+4. Chiseled  5. Delicate 6. Elongated
+7. Patrician 8. Pinched  9. Hawkish
+10.Broken    11.Impish   12.Narrow
+13.Ratlike   14.Round    15.Sunken
+16.Sharp     17.Soft     18.Square
+19.Wide      20.Wolfish
+
+Skin
+1. Battle Scar 2. Birthmark 3. Burn Scar
+4. Dark        5. Makeup    6. Oily
+7. Pale        8. Perfect   9. Pierced
+10.Pockmarked  11.Reeking   12.Tattooed
+13.Rosy        14.Rough     15.Sallow
+16.Sunburned   17.Tanned    18.War Paint
+19.Weathered   20.Whip Scar
+
+Hair
+1. Bald       2. Braided 3. Bristly
+4. Cropped    5. Curly   6. Disheveled
+7. Dreadlocks 8. Filthy  9. Frizzy
+10.Greased    11.Limp    12.Long
+13.Luxurious  14.Mohawk  15.Oily
+16.Ponytail   17.Silky   18.Topknot
+19.Wavy       20.Wispy
+
+Clothing
+1. Antique     2. Bloody    3. Ceremonial
+4. Decorated   5. Eccentric 6. Elegant
+7. Fashionable 8. Filthy    9. Flamboyant
+10.Stained     11.Foreign   12.Frayed
+13.Frumpy      14.Livery    15.Oversized
+16.Patched     17.Perfumed  18.Rancid
+19.Torn        20.Undersized
+
+Virtue
+1. Ambitious  2. Cautious  3. Courageous
+4. Courteous  5. Curious   6. Disciplined
+7. Focused    8. Generous  9. Gregarious
+10.Honest     11.Honorable 12.Humble
+13.Idealistic 14.Just      15.Loyal
+16.Merciful   17.Righteous 18.Serene
+19.Stoic      20.Tolerant
+
+Vice
+1. Aggressive 2. Arrogant   3. Bitter
+4. Cowardly   5. Cruel      6. Deceitful
+7. Flippant   8. Gluttonous 9. Greedy
+10.Irascible  11.Lazy      12.Nervous
+13.Prejudiced 14.Reckless  15.Rude
+16.Suspicious 17.Vain      18.Vengeful
+19.Wasteful   20.Whiny
+
+Speech
+1. Blunt      2. Booming  3. Breathy
+4. Cryptic    5. Drawling 6. Droning
+7. Flowery    8. Formal   9. Gravelly
+10.Hoarse     11.Mumbling 12.Precise
+13.Quaint     14.Rambling 15.Rapid-fire
+16.Dialect    17.Slow     18.Squeaky
+19.Stuttering 20.Whispery
+
+4. Inventory, grants & the generic store
+
+Characters have a number of item slots equal to their Fortitude defense, something that will be explained later.
+
+Most items, including spell books, potions, a day’s rations, light weapons,
+tools and so on take up 1 slot, but particularly heavy or bulky items like
+armor or medium to heavy weapons may take up more slots.
+
+Groups of small, identical items may be bundled into the same slot, at the
+GM’s discretion. 100 coins can fit in a slot.
+
+As a general guideline, a slot holds around 5 pounds of weight.
+Here is a key to keep your inventory smaller on paper.
+
+Inventory [_/_ Slots Used]
+
+#a  = Armor
+#s  = Slots
+#d# = Damage
+#h  = Hands
+#c/#c = Capacity
+#Q/#Q = Quality
+
+Characters can start with 2 days of rations and one weapon of their player’s
+choice.
+
+Ask your game master for how much money you start with and what it
+will be called.
+
+you may grant yourself items appropriate to your background and position within the Host's approval.
+
+here is a store for reference, all prices are given in Currency Pieces or cp.
+
+        tools & Gear
+Bag/Bottle/Vial    1cp
+Small Trap        20cp
+Bedroll           10cp 
+Book (^Blank)    300cp
+Book (^Reading)  600cp 
+Caltrops (^bag)   10cp 
+Cards              5cp
+Chain (10ft)      10cp 
+Chalk (10 pieces)  1cp
+Clock            300cp 
+Dice               5cp
+Drill             10cp
+Makeup            10cp
+Grease             1cp
+Incense           10cp 
+Ladder (10 ft)    10cp
+Large Sponge       5cp
+Lens             100cp
+Lock and Key      20cp 
+Lockpicks        100cp
+Mirror(small)    200cp 
+Nails (12)         5cp
+Net               10cp 
+Perfume           50cp
+Pole (10ft)        5cp 
+Quill & Ink (3oz)  1cp
+Rope (50ft)       10cp 
+Small Bell        20cp
+Soap               1cp 
+Spikes             5cp
+Telescope       1000cp 
+Tent (personal)   50cp
+Tent (3 man)     100cp
+
+        Light
+Candle (4 hours)   1cp 
+Lantern           30cp
+Lamp Oil (4 hours) 5cp
+Tinderbox         10cp
+Torch (1 hour)     1cp
+Generic Light     20cp
+
+        Armor
+Barrier Item (^like A shield or helmet) (+1a,1s,1Q) 40cp
+Lesser Armor (+1a,1s,1Q)                            40cp
+Minor Armor (12a,1s,3Q)                             60cp
+Below Average Armor(13a,2s,4Q)                     500cp
+Above Average Armor(14a,3s,5Q)                    1200cp
+Good Armor (15a,4s,6Q)                            4000cp
+Great Armor (16a,5s,7Q)                           8000cp
+
+Weapons
+Small/Light (d6,1s,3Q)           5cp
+Medium (d8,2s,3Q)               10cp
+Heavy (d10,3s,2h,3Q)            20cp
+Ranged Small/Light (d4,1s,3Q)    5cp
+Ranged Mid/Medium (d6,2s,2h,3Q) 15cp
+Ranged Heavy/long (d8,3s,2h,3Q) 60cp
+Ammo (20 per)                    5cp
+Ammo_Containers (20c)            5cp
+
+
+4. how to play, host and existing
+
+If you attempt to do something where you may not succeed you make a roll with your scale dice, again typically being a d20 and the most appropriate stat or stats added to it.
+
+to shove heavy box would be a might roll
+to snatch a fish from a pond would be a agility roll
+
+sometimes you'll have a significant advantage or disadvantage on some rolls.
+with advantage roll your scale dice twice and pick the highest.
+with disadvantage roll your scale dice twice and pick the lowest.
+
+During an attack roll, if the attacker rolls max (^nat 20 for 9-C) or the defender rolls a natural 1, the defender’s armor loses 1 point of quality and they take an additional die of damage.
+If the attacker rolls a natural 1 or the defender rolls max (^nat 20 for 9-C), the attacker’s weapon loses 1 point of quality.
+At 0 quality, the item is destroyed.
+(^Each point of quality costs 10% of the item’s cost to repair)
+
+At the start of each combat round, determine initiative by flipping a coin. 
+On tails, all of the enemies will act first, On heads all of the Player's Characters will act first (^in agility order if they can't agree), initiative is redone each round
+
+Characters get 1 action & 1 move, they can discard their actions to move twice.
+
+Armor is half the number of sides of thier scale dice 10 if scale is 9-C + their fortitude or agility stats, armor like chainmail may provide additional benefits but overrides the fortitude and agility.
+
+When a character reaches 0 HP they are unconscious or unable to move & act, any more damage kills the character, you can recoever HP d8+ Fortitude stat  after a meal and a night's rest, resting at a sanctuary may recover all lost HP but not lost limbs unless appropriate equipment is there.
+
+    Meta Actions
+Loan Action (^Double up)
+loan actions from your next turns to gain actions to a limit of 4 actions, actions are payed back on following turns
+
+Guard (^Zero Down)
+Give up your action this turn to reduce incoming damage by ½ and gain a action the turn after you stop, you can't gain more then 4 actions from this.
+
+    Action list
+Attack (Melee)
+a roll with the might stat added to it vs the armor of the target, on a result higher then the armor damage is delt.
+alternatively
+the target may make roll and add thier armor to it vs the might defence of the target
+
+Attack (Ranged)
+same as Melee but with the perception used instead of might
+
+Grapple
+prevent a target from moving, roll might vs thier might defence or agility defence on a pass you remove 1 of their contact points from the ground and prevent them from moving that turn, when you reduce their contact points to 0 you are now holding them, they may make attempts to escape your gapple at disadvantage
+
+Stunt
+everything else, slamming a door, drinking from a flask quickly, stunning, shoving, disarming, tripping, add the most appropriate stat

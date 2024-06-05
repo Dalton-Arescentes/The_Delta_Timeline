@@ -1,4 +1,4 @@
-[[Races]]
+[[Alt human]]
 #Race/Human/Pandorian
 Humans from #Location/Reality/Maelstorm 
 

@@ -1,2 +1,0 @@
-#race/android
-[[Races]]

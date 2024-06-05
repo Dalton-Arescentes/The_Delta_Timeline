@@ -1,0 +1,16 @@
+{
+  "version": "version1",
+  "enabled": true,
+  "activeScheme": {
+    "id": "quill",
+    "caption": "Quill",
+    "sounds": {
+      "key": ".obsidian/plugins/click-clack/resources/quill/key.wav",
+      "key2": ".obsidian/plugins/click-clack/resources/quill/key2.wav",
+      "space": ".obsidian/plugins/click-clack/resources/quill/space.wav",
+      "enter": ".obsidian/plugins/click-clack/resources/quill/enter.wav",
+      "delete": ".obsidian/plugins/click-clack/resources/quill/delete.wav"
+    }
+  },
+  "volumn": 100
+}

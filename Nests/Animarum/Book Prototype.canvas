@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"0951c4cdf1c95a12","type":"file","file":"Animarum.md","x":-582,"y":320,"width":400,"height":400},
+		{"id":"652e8f384fd86988","x":-582,"y":833,"width":400,"height":400,"type":"file","file":"Animarum Handbook.md"},
+		{"id":"89b69cf791b65f85","x":-1080,"y":833,"width":400,"height":400,"type":"file","file":"Character Sheets.md"},
+		{"id":"38e08d456b4887cc","x":-80,"y":833,"width":400,"height":400,"type":"file","file":"Scaling Sheet.md"},
+		{"id":"d1b53cb013d353d1","type":"file","file":"Old backup.md","x":-1080,"y":-160,"width":400,"height":400},
+		{"id":"47782ba56e1e1ac5","x":-80,"y":-160,"width":400,"height":400,"type":"file","file":"Resources/untitled.png"}
+	],
+	"edges":[
+		{"id":"85ebf161aca1d309","fromNode":"d1b53cb013d353d1","fromSide":"right","toNode":"0951c4cdf1c95a12","toSide":"top"},
+		{"id":"fcc8d80a1b6e7eb7","fromNode":"0951c4cdf1c95a12","fromSide":"bottom","toNode":"652e8f384fd86988","toSide":"top"},
+		{"id":"501d29c6641d8bf3","fromNode":"0951c4cdf1c95a12","fromSide":"bottom","toNode":"38e08d456b4887cc","toSide":"top"},
+		{"id":"482242bd88bd820c","fromNode":"0951c4cdf1c95a12","fromSide":"bottom","toNode":"89b69cf791b65f85","toSide":"top"}
+	]
+}

@@ -1,2 +1,0 @@
-#Faction/Adam_Manufacturing 
-[[moil reality]]

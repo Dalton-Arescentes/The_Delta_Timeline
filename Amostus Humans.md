@@ -1,4 +1,4 @@
-[[Races]]
+[[Alt human]]
 
 #Race/Amostus/Human 
 #Souls/Amostus 

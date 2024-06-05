@@ -1,4 +1,4 @@
-[[Locations]]
+[[The Delta Timeline]]
 #System 
 #Faction/Adam_Manufacturing 
-#Location/Quantum_Machine
+#Location/Quantum_Machine/Tribebler

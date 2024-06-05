@@ -1,2 +1,2 @@
 #Race/Human/Carbon 
-[[Races]]
+[[Alt human]]

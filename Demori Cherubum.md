@@ -1,2 +1,2 @@
-[[Races]]
+[[Demori]]
 #Race/demori/cherubum
